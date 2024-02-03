@@ -1,7 +1,6 @@
 node_modules
 package-lock.json
 *.log
-cypress.env.json
 screenshots
 videos
 automacao_web_cypress.code-workspace
