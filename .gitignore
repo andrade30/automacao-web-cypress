@@ -4,3 +4,4 @@ package-lock.json
 cypress.env.json
 screenshots
 videos
+automacao_web_cypress.code-workspace
